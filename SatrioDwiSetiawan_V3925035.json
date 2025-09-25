@@ -1,0 +1,660 @@
+{
+  "media_sosial": [
+    {
+        "id_data": 1001,  
+        "platform": "Twitter", 
+        "konten": "Demo di Jakarta ricuh, ada korban jiwa!",
+        "tanggal": "2025-07-01"
+    },
+    {
+        "id_data": 1002, 
+        "platform": "Facebook", 
+        "konten": "Pemerintah diam saja saat rakyat menderita",
+        "tanggal": "2025-07-02"
+    },
+    {
+        "id_data": 1003, 
+        "platform": "Instagram", 
+        "konten": "Video bentrok demo di depan Gedung DPR",
+        "tanggal": "2025-07-03"
+    },
+    {
+        "id_data": 1004, 
+        "platform": "WhatsApp", 
+        "konten": "Awas! Ada provokator menyamar jadi mahasiswa",
+        "tanggal": "2025-07-04"
+    },
+    {
+        "id_data": 1005, 
+        "platform": "Twitter", 
+        "konten": "Harga BBM naik diam-diam",
+        "tanggal": "2025-07-05"
+    },
+    {
+        "id_data": 1006, 
+        "platform": "Facebook", 
+        "konten": "Screenshot chat rahasia pejabat",   
+        "tanggal": "2025-07-06"
+    },
+    {
+        "id_data": 1007, 
+        "platform": "Instagram", 
+        "konten": "Foto polisi membawa senjata tajam",
+        "tanggal": "2025-07-07"
+    },
+    {
+        "id_data": 1008, 
+        "platform": "Twitter", 
+        "konten": "Demo besok akan dibubarkan paksa",
+        "tanggal": "2025-07-08"
+    },
+    {
+        "id_data": 1009, 
+        "platform": "WhatsApp", 
+        "konten": "Pemerintah sengaja adu domba rakyat",
+        "tanggal": "2025-07-09"
+    },
+    {
+        "id_data": 1010, 
+        "platform": "Facebook", 
+        "konten": "Ada mahasiswa hilang saat demo",
+        "tanggal": "2025-07-10"
+    },
+    {
+        "id_data": 1011, 
+        "platform": "Twitter", 
+        "konten": "Demo ditunggangi pihak asing",
+        "tanggal": "2025-07-11"
+    },
+    {
+        "id_data": 1012, 
+        "platform": "Instagram", 
+        "konten": "Live streaming aksi demo malam ini",
+        "tanggal": "2025-07-12"
+    },
+    {
+        "id_data": 1013, 
+        "platform": "WhatsApp", 
+        "konten": "Ada penembakan di depan kampus",
+        "tanggal": "2025-07-13"
+    },
+    {
+        "id_data": 1014, 
+        "platform": "Twitter", 
+        "konten": "Breaking! Presiden akan lengser",
+        "tanggal": "2025-07-14"
+    },
+    {
+        "id_data": 1015, 
+        "platform": "Facebook", 
+        "konten": "Video editan kerusuhan viral",
+        "tanggal": "2025-07-15"
+    },
+    {
+        "id_data": 1016, 
+        "platform": "Instagram", 
+        "konten": "Poster provokatif aksi demo",
+        "tanggal": "2025-07-16"
+    },
+    {
+        "id_data": 1017, 
+        "platform": "WhatsApp", 
+        "konten": "Jangan keluar rumah, demo makin panas",
+        "tanggal": "2025-07-17"
+    },
+    {
+        "id_data": 1018, 
+        "platform": "Twitter", 
+        "konten": "Demo besar akan berlangsung 2 hari lagi",
+        "tanggal": "2025-07-18"
+    },
+    {
+        "id_data": 1019, 
+        "platform": "Facebook", 
+        "konten": "Polisi menyamar jadi demonstran",
+        "tanggal": "2025-07-19"
+    },
+    {
+        "id_data": 1020, 
+        "platform": "Instagram", 
+        "konten": "Massa membawa senjata api",
+        "tanggal": "2025-07-20"
+    },
+    {
+        "id_data": 1021, 
+        "platform": "WhatsApp", 
+        "konten": "Provokator sudah ditangkap tapi dilepas",
+        "tanggal": "2025-07-21"
+    },
+    {
+        "id_data": 1022, 
+        "platform": "Twitter", 
+        "konten": "Kondisi demo makin memanas",
+        "tanggal": "2025-07-22"
+    },
+    {
+        "id_data": 1023, 
+        "platform": "Facebook", 
+        "konten": "Tuntutan rakyat diabaikan",
+        "tanggal": "2025-07-23"
+    },
+    {
+        "id_data": 1024, 
+        "platform": "Instagram", 
+        "konten": "Foto rusaknya gedung DPR",
+        "tanggal": "2025-07-24"
+    },
+    {
+        "id_data": 1025, 
+        "platform": "WhatsApp", 
+        "konten": "Wajib tahu! Fakta demo disembunyikan",
+        "tanggal": "2025-07-25"
+    }
+  ],
+  "berita_online": [
+    {
+        "id_data": 2001, 
+        "sumber": "Detik.com", 
+        "judul": "Polisi Tegaskan Tidak Ada Korban Jiwa dalam Demo",
+        "tanggal": "2025-07-26"
+    },
+    {
+        "id_data": 2002, 
+        "sumber": "CNN Indonesia", 
+        "judul": "Demo Mahasiswa Berlangsung Damai",
+        "tanggal": "2025-07-27"
+    },
+    {
+        "id_data": 2003, 
+        "sumber": "Liputan6", 
+        "judul": "Harga BBM Tidak Naik, Pemerintah Klarifikasi",
+        "tanggal": "2025-07-28"
+    },
+    {
+        "id_data": 2004, 
+        "sumber": "Sindonews", 
+        "judul": "Fakta di Balik Foto Polisi dengan Senjata Tajam",
+        "tanggal": "2025-07-29"
+    },
+    {
+        "id_data": 2005, 
+        "sumber": "Kompas", 
+        "judul": "Kronologi Demo di Depan Gedung DPR",
+        "tanggal": "2025-07-30"
+    },
+    {
+        "id_data": 2006, 
+        "sumber": "Tempo", 
+        "judul": "Video Viral Demo Ternyata Hasil Editan",
+        "tanggal": "2025-07-31"
+    },
+    {
+        "id_data": 2007, 
+        "sumber": "Antara", 
+        "judul": "Mahasiswa yang Hilang Sudah Pulang",
+        "tanggal": "2025-08-01"
+    },
+    {
+        "id_data": 2008, 
+        "sumber": "Detik.com", 
+        "judul": "Polisi Membantah Adanya Penembakan di Kampus",
+        "tanggal": "2025-08-02"
+    },
+    {
+        "id_data": 2009, 
+        "sumber": "CNN Indonesia", 
+        "judul": "Hoax Presiden Akan Lengser",
+        "tanggal": "2025-08-03"
+    },
+    {
+        "id_data": 2010, 
+        "sumber": "Kompas", 
+        "judul": "Klarifikasi Poster Provokatif Demo",
+        "tanggal": "2025-08-04"
+    },
+    {
+        "id_data": 2011, 
+        "sumber": "Liputan6", 
+        "judul": "Massa Demo Tidak Membawa Senjata Api",
+        "tanggal": "2025-08-05"
+    },
+    {
+        "id_data": 2012, 
+        "sumber": "Tempo", 
+        "judul": "Provokator Demo Ditangkap",
+        "tanggal": "2025-08-06"
+    },
+    {
+        "id_data": 2013, 
+        "sumber": "Detik.com", 
+        "judul": "Fakta di Balik Viral Gedung DPR Rusak",
+        "tanggal": "2025-08-07"
+    },
+    {
+        "id_data": 2014, 
+        "sumber": "CNN Indonesia", 
+        "judul": "Demo Ditunggangi Isu Hoax",
+        "tanggal": "2025-08-08"
+    },
+    {
+        "id_data": 2015, 
+        "sumber": "Kompas", 
+        "judul": "Demo Besar Ternyata Tidak Terjadi",
+        "tanggal": "2025-08-09"
+    },
+    {
+        "id_data": 2016, 
+        "sumber": "Sindonews", 
+        "judul": "Polisi Tidak Menyamar Jadi Demonstran",
+        "tanggal": "2025-08-10"
+    },
+    {
+        "id_data": 2017,
+        "sumber": "Antara", 
+        "judul": "Fakta di Balik Tangkapan Layar Chat Pejabat",
+        "tanggal": "2025-08-11"
+    },
+    {
+        "id_data": 2018, 
+        "sumber": "Liputan6", 
+        "judul": "Pemerintah Klarifikasi Isu Krisis",
+        "tanggal": "2025-08-12"
+    },
+    {
+        "id_data": 2019, 
+        "sumber": "Tempo", 
+        "judul": "Berita Hoax Disebarkan dari Grup WhatsApp",
+        "tanggal": "2025-08-13"
+    },
+    {
+        "id_data": 2020, 
+        "sumber": "Detik.com", 
+        "judul": "Hoax Soal Korban Jiwa Dibantah",
+        "tanggal": "2025-08-14"
+    },
+    {
+        "id_data": 2021, 
+        "sumber": "Kompas", 
+        "judul": "Analisis Sebaran Berita Hoax di Media Sosial",
+        "tanggal": "2025-08-15"
+    },
+    {
+        "id_data": 2022, 
+        "sumber": "CNN Indonesia", 
+        "judul": "Polisi: Demo Berjalan Kondusif",
+        "tanggal": "2025-08-16"
+    },
+    {
+        "id_data": 2023, 
+        "sumber": "Liputan6", 
+        "judul": "Fakta-fakta Isu Penembakan",
+        "tanggal": "2025-08-17"
+    },
+    {
+        "id_data": 2024, 
+        "sumber": "Sindonews", 
+        "judul": "Berita Hoax Menjelang Pemilu",
+        "tanggal": "2025-08-18"
+    },
+    {
+        "id_data": 2025, 
+        "sumber": "Tempo", 
+        "judul": "Masyarakat Diminta Bijak Bermedia Sosial",
+        "tanggal": "2025-08-19"
+    }
+  ],
+  "fact_checking": [
+    {
+        "id_data": 3001, 
+        "lembaga": "Mafindo", 
+        "klaim": "Demo ricuh ada korban jiwa",
+        "tanggal": "2025-08-20",
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3002, 
+        "lembaga": "CekFakta", 
+        "klaim": "Harga BBM naik",
+        "tanggal": "2025-08-21", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3003, 
+        "lembaga": "Mafindo", 
+        "klaim": "Presiden akan lengser", 
+        "tanggal": "2025-08-22",
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3004, 
+        "lembaga": "CekFakta", 
+        "klaim": "Polisi Membawa Senjata Tajam",
+        "tanggal": "2025-08-23",
+        "status": "Disinformasi"
+    },
+    {
+        "id_data": 3005, 
+        "lembaga": "Mafindo", 
+        "klaim": "Mahasiswa hilang saat demo",
+        "tanggal": "2025-08-24", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3006, 
+        "lembaga": "CekFakta", 
+        "klaim": "Penembakan di depan kampus",
+        "tanggal": "2025-08-25", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3007, 
+        "lembaga": "Mafindo", 
+        "klaim": "Demo ditunggangi asing",  
+        "tanggal": "2025-08-26",
+        "status": "Manipulasi"
+    },
+    {
+        "id_data": 3008, 
+        "lembaga": "CekFakta", 
+        "klaim": "Gedung DPR rusak akibat demo",
+        "tanggal": "2025-08-27", 
+        "status": "Disinformasi"
+    },
+    {
+        "id_data": 3009, 
+        "lembaga": "Mafindo", 
+        "klaim": "Provokator demo dilepas",
+        "tanggal": "2025-08-28", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3010, 
+        "lembaga": "CekFakta", 
+        "klaim": "Demo besar akan berlangsung 2 hari",
+        "tanggal": "2025-08-29",
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3011, 
+        "lembaga": "Mafindo", 
+        "klaim": "Polisi menyamar jadi demonstran",
+        "tanggal": "2025-08-30", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3012, 
+        "lembaga": "CekFakta", 
+        "klaim": "Massa membawa senjata api",
+        "tanggal": "2025-08-31", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3013, 
+        "lembaga": "Mafindo", 
+        "klaim": "Pemerintah diam saja",
+        "tanggal": "2025-08-01", 
+        "status": "Disinformasi"
+    },
+    {
+        "id_data": 3014, 
+        "lembaga": "CekFakta", 
+        "klaim": "Demo besok dibubarkan paksa",
+        "tanggal": "2025-08-02", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3015, 
+        "lembaga": "Mafindo", 
+        "klaim": "Chat rahasia pejabat bocor",
+        "tanggal": "2025-08-03", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3016, 
+        "lembaga": "CekFakta", 
+        "klaim": "Live streaming demo rusuh",
+        "tanggal": "2025-08-04", 
+        "status": "Manipulasi"
+    },
+    {
+        "id_data": 3017, 
+        "lembaga": "Mafindo", 
+        "klaim": "Poster provokatif asli",
+        "tanggal": "2025-08-05", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3018, 
+        "lembaga": "CekFakta", 
+        "klaim": "Provokator demo mahasiswa",
+        "tanggal": "2025-08-06", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3019, 
+        "lembaga": "Mafindo", 
+        "klaim": "Sebarkan ke 10 grup agar tidak disensor",
+        "tanggal": "2025-08-07", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3020, 
+        "lembaga": "CekFakta", 
+        "klaim": "Demo ditunggangi parpol",
+        "tanggal": "2025-08-08", 
+        "status": "Manipulasi"
+    },
+    {
+        "id_data": 3021, 
+        "lembaga": "Mafindo", 
+        "klaim": "Rakyat diabaikan",
+        "tanggal": "2025-08-09", 
+        "status": "Disinformasi"
+    },
+    {
+        "id_data": 3022, 
+        "lembaga": "CekFakta", 
+        "klaim": "Fakta demo disembunyikan",
+        "tanggal": "2025-08-10", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3023, 
+        "lembaga": "Mafindo", 
+        "klaim": "Demo chaos di 10 kota",
+        "tanggal": "2025-08-11", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3024, 
+        "lembaga": "CekFakta", 
+        "klaim": "Pejabat diam seribu bahasa",
+        "tanggal": "2025-08-12", 
+        "status": "Hoax"
+    },
+    {
+        "id_data": 3025, 
+        "lembaga": "Mafindo", 
+        "klaim": "Demo ditunggangi teroris",
+        "tanggal": "2025-08-13", 
+        "status": "Manipulasi"
+    }
+  ],
+  "laporan_masyarakat": [
+    {
+        "id_data": 4001,
+        "username": "Fandi Dwikunto",
+        "tanggal": "2025-08-14",
+        "url": "https://fb.com/post/123", 
+        "deskripsi": "Postingan provokatif soal demo"
+    },
+    {
+        "id_data": 4002, 
+        "username": "Fiki Naki",
+        "tanggal": "2025-08-15",
+        "url": "https://twitter.com/post/456", 
+        "deskripsi": "Tweet hoax tentang korban demo"
+    },
+    {
+        "id_data": 4003,
+        "username": "Airani Iofifteen",
+        "tanggal": "2025-08-16", 
+        "url": "https://wa.me/group/789", 
+        "deskripsi": "Pesan WA soal demo chaos"
+    },
+    {
+        "id_data": 4004, 
+        "username": "Ayunda Risu",
+        "tanggal": "2025-08-17",
+        "url": "https://ig.com/post/321", 
+        "deskripsi": "Gambar editan kerusuhan"
+    },
+    {
+        "id_data": 4005, 
+        "username": "Andi Adinata",
+        "tanggal": "2025-08-18",
+        "url": "https://fb.com/post/654", 
+        "deskripsi": "Hoax harga BBM naik"
+    },
+    {
+        "id_data": 4006,
+        "username": "Zen Gunawan",
+        "tanggal": "2025-08-19", 
+        "url": "https://twitter.com/post/987", 
+        "deskripsi": "Tweet klaim palsu polisi bersenjata"
+    },
+    {
+        "id_data": 4007, 
+        "username": "Moona Hoshinova",
+        "tanggal": "2025-08-20",
+        "url": "https://ig.com/post/741", 
+        "deskripsi": "Video palsu rusaknya gedung DPR"
+    },
+    {
+        "id_data": 4008,
+        "username": "Reine Pavolia",
+        "tanggal": "2025-08-21", 
+        "url": "https://wa.me/group/852", 
+        "deskripsi": "Pesan broadcast provokatif"
+    },
+    {
+        "id_data": 4009,
+        "username": "Nia Karlina",
+        "tanggal": "2025-08-22", 
+        "url": "https://fb.com/post/963", 
+        "deskripsi": "Hoax mahasiswa hilang"
+    },
+    {
+        "id_data": 4010,
+        "username": "Mira Tan",
+        "tanggal": "2025-08-23", 
+        "url": "https://twitter.com/post/147", 
+        "deskripsi": "Tweet tentang demo ditunggangi asing"
+    },
+    {
+        "id_data": 4011,   
+        "username": "Ryan Armando Pasya",
+        "tanggal": "2025-08-24", 
+        "url": "https://ig.com/post/258", 
+        "deskripsi": "Foto editan senjata"
+    },
+    {
+        "id_data": 4012, 
+        "username": "Rina Susanti",
+        "tanggal": "2025-08-25",
+        "url": "https://wa.me/group/369", 
+        "deskripsi": "Pesan demo chaos nasional"
+    },
+    {
+        "id_data": 4013,
+        "username": "Dina Kartika",
+        "tanggal": "2025-08-26", 
+        "url": "https://fb.com/post/753", 
+        "deskripsi": "Hoax presiden lengser"
+    },
+    {
+        "id_data": 4014,
+        "username": "Sari Melati",
+        "tanggal": "2025-08-27", 
+        "url": "https://twitter.com/post/159", 
+        "deskripsi": "Tweet penembakan di kampus"
+    },
+    {
+        "id_data": 4015,
+        "username": "Lutfi Halimawan",
+        "tanggal": "2025-08-28", 
+        "url": "https://ig.com/post/357", 
+        "deskripsi": "Poster provokatif demo"
+    },
+    {
+        "id_data": 4016,
+        "username": "Regi Saputra",
+        "tanggal": "2025-08-29", 
+        "url": "https://wa.me/group/951", 
+        "deskripsi": "Pesan WA ancaman demo"
+    },
+    {
+        "id_data": 4017,   
+        "username": "Wielino Tirta",
+        "tanggal": "2025-08-30", 
+        "url": "https://fb.com/post/159", 
+        "deskripsi": "Berita palsu polisi menyamar"
+    },
+    {
+        "id_data": 4018,
+        "username": "Rudi Hartono",
+        "tanggal": "2025-08-31", 
+        "url": "https://twitter.com/post/357", 
+        "deskripsi": "Tweet demo besok bubar paksa"
+    },
+    {
+        "id_data": 4019,
+        "username": "Dewi Lestari",
+        "tanggal": "2025-09-01", 
+        "url": "https://ig.com/post/753", 
+        "deskripsi": "Video provokatif demo"
+    },
+    {
+        "id_data": 4020, 
+        "username": "Agus Pratama",
+        "tanggal": "2025-09-02",
+        "url": "https://wa.me/group/456", 
+        "deskripsi": "Pesan hoax demo rusuh"
+    },
+    {
+        "id_data": 4021,
+        "username": "Rina Kusuma",
+        "tanggal": "2025-09-03", 
+        "url": "https://fb.com/post/951", 
+        "deskripsi": "Hoax provokator demo dilepas"
+    },
+    {
+        "id_data": 4022,
+        "username": "Budi Santoso",
+        "tanggal": "2025-09-04", 
+        "url": "https://twitter.com/post/753", 
+        "deskripsi": "Tweet rakyat diabaikan"
+    },
+    {
+        "id_data": 4023,
+        "username": "Andi Wijaya",
+        "tanggal": "2025-09-05",
+        "url": "https://ig.com/post/456", 
+        "deskripsi": "Foto hoax demo chaos"
+    },
+    {
+        "id_data": 4024,
+        "username": "Siti Aminah", 
+        "tanggal": "2025-09-06",
+        "url": "https://wa.me/group/123", 
+        "deskripsi": "Pesan broadcast demo ditunggangi"
+    },
+    {
+        "id_data": 4025,
+        "username": "Joko Cahyono",
+        "tanggal": "2025-09-07",
+        "url": "https://fb.com/post/852", 
+        "deskripsi": "Postingan palsu kondisi demo"
+    }
+  ]
+}
